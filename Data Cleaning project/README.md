@@ -28,9 +28,11 @@ The main cleaning tasks completed in this project were:
 ---
 
 ## Dataset
-The dataset used in this project is:
+After importing the data into SQL Server, it was stored and cleaned in the table:
 
-- `SQL_Project.dbo.NashvilleHousing` and the raw dataset is `NashVille_Housing.sql`                             
+- `SQL_Project.dbo.NashvilleHousing`
+
+And the raw dataset is in `NashVille_Housing.sql`                             
 
 This dataset contains housing-related fields such as:
 - parcel ID
